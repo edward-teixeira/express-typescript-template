@@ -1,6 +1,6 @@
 ![img](https://miro.medium.com/max/1756/1*fzcYZIhdZjuQaT8gTk1YAQ.png)
 
-###Whats inside:
+### Whats inside:
 * eslint 
 * concurrently
 * nodemon 
@@ -26,7 +26,7 @@
     
 ```
 
-###Structure
+### Structure
 ```
 project
 │   README.md
